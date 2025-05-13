@@ -1,0 +1,1 @@
+was able to see updated child app UI without refreshing the page

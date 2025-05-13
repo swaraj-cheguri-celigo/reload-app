@@ -7,9 +7,9 @@ const App = () => {
 
   return (
     <div style={{ padding: '20px', fontFamily: 'Arial' }}>
-      <h1>Simple Redux feorm</h1>
+      <h1>zSimdrepere3r34ewqew</h1>
       <Form />
-      <h2>Preview:</h2>
+      <h2>fdfdsf :</h2>
       <pre>{JSON.stringify(formData, null, 2)}</pre>
     </div>
   );
